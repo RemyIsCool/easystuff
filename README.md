@@ -16,3 +16,9 @@ easystuff.download('https://www.example.com/file.png', 'save_here.png')
 # Copy a file
 easystuff.copy('copy_me.txt', 'this_is_a_copy.txt')
 ```
+
+### Compiling From Source
+**Note:** It is far easier to install through `python3 -m pip install easystuff`, though if you want to compile from source, here's how:
+
+To install, you will need `wheel` and `setuptools`, which can be installed with ```shell
+python3 -m pip install wheel setuptools```.
