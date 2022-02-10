@@ -3,7 +3,7 @@
 This module uses `requests` to download files, without the hastle of writing it to a file. It also uses `shutil` to copy files from one location to another.
 
 ### Instalation
-To install `easystuff`, open Command Prompt and run: `python3 -m pip install easystuff`.
+To install `easystuff`, open Command Prompt or Terminal and run: `python3 -m pip install easystuff`.
 
 ### Example
 Here is a simple example of how this module can be used:
